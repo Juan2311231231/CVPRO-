@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_buttons"
+        android:icon="@drawable/ic_buttons"
+        android:title="Botones" />
+
+    <item
+        android:id="@+id/navigation_web"
+        android:icon="@drawable/ic_web"
+        android:title="Web" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="Video" />
+
+    <item
+        android:id="@+id/navigation_photos"
+        android:icon="@drawable/ic_photos"
+        android:title="Fotos" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Perfil" />
+</menu> 
