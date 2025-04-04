@@ -10,7 +10,7 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_marginTop="48dp"
-        android:src="@drawable/businessman_silhouette"
+        android:src="@drawable/ic_briefcase"
         app:civ_border_color="#2196F3"
         app:civ_border_width="2dp"
         app:layout_constraintEnd_toEndOf="parent"
